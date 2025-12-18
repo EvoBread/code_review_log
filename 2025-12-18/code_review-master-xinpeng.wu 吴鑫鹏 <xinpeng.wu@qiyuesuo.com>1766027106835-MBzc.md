@@ -1,4 +1,4 @@
-# 小傅哥项目： OpenAi 代码评审.
+# OpenAi 代码评审.
 ### 😀代码评分：90
 #### 😀代码逻辑与目的：
 该代码提交涉及GitHub Actions配置文件的更新和Java测试代码的添加与删除。GitHub Actions配置文件`.github/workflows/maven-jar.yml`被更新为使用更新版本的检出动作，并且优化了检出深度。同时，添加了一个简单的Java测试类`Test`和一个被删除的测试类`WeiXinTest`。
